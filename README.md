@@ -234,11 +234,7 @@ Beyond the base requirements, this implementation includes:
 
 ---
 
-## 📸 Screenshots
 
-_(Add your screen recordings/screenshots here after recording demo)_
-
----
 
 ## 🎓 What I Learned
 
